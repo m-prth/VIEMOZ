@@ -1,4 +1,4 @@
-# devfest_demo
+# viemoz_demo
 
 A new Flutter project.
 
